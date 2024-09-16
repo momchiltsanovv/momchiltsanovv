@@ -19,5 +19,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=momchiltsanovv&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=momchiltsanovv&icon=0&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=momchiltsanovv&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
