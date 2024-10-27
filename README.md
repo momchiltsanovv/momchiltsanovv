@@ -1,6 +1,6 @@
 # Hello there! I'm Momchil 👋🏻
 ### <br>💫 About Me:<br>
-🎓 Studying computer science at New Bulgarian University<br>📚 I am currently learning Java Web Development at Software University (SoftUni)<br>🥇 Completed secondary education with excellent results<br>😄 Fun facts about me: I like downhill 🚵🏻 and fitness 🏋🏻‍♀️<br>
+🎓 Studying Infomatics at New Bulgarian University<br>📚 I am currently learning Java Web Development at Software University (SoftUni)<br>🥇 Completed secondary education with excellent results<br>😄 Fun facts about me: I like downhill 🚵🏻 and fitness 🏋🏻‍♀️<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/momchiltsanov) 
