@@ -1,8 +1,9 @@
-# Hello there! I'm Momchil 👋🏻
+# Welcome to my GitHub profile! I'm Momchil 👋🏻
 
-### <br>💫 About Me:<br>
 
-🎓 Studying Computer Science at New Bulgarian University<br>📚 I am currently learning Java Web Development at Software University (SoftUni)<br>🥇 Completed secondary education with excellent GPA<br>😄 Fun facts about me: I like downhill 🚵🏻 and fitness 🏋🏻‍♀️<br>
+### <br>🚀 About Me:<br>
+
+🎓 I'm majoring in Informatics at New Bulgarian University<br>🧠 Learning Java Web Development at Software University <br>🥇 Completed secondary education with excellent GPA<br>😄 Fun facts about me: I like downhill 🚵🏻 and fitness 🏋🏻‍♀️<br>
 
 # 💻 Tech Stack:
 
