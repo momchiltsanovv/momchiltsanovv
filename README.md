@@ -14,14 +14,15 @@
 
 ## 🌐 Socials:
 <p align="left">
+  <a href="https://www.linkedin.com/in/momchil-tsanov-5b91a62aa/" target="blank"><img align="center"
+      src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg"
+      height="30" width="40" /></a>
   <a href="https://www.facebook.com/profile.php?id=100009972669108&locale=bg_BG" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       height="30" width="40" /></a>
   <a href="https://www.instagram.com/momchiltsanov/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/momchil-tsanov-5b91a62aa/" target="blank"><img align="center"
-      src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg"
-      height="30" width="40" /></a>
+  
 </p> 
 
