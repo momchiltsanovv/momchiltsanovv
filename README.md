@@ -28,11 +28,11 @@
     <a href="https://www.facebook.com/profile.php?id=100009972669108&locale=bg_BG" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       height="33" width="40" /></a>
-    <a href="mailto:momchilworkspace@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"
-      height="40-" width="40" /></a>
   <a href="https://www.instagram.com/momchiltsanov/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       height="33" width="40" /></a>
+    <a href="mailto:momchilworkspace@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"
+      height="40-" width="40" /></a>
       
  
 </p>
