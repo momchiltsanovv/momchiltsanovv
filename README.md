@@ -3,7 +3,6 @@
 🎓 Studying Informatics at New Bulgarian University<br>📚 I am currently learning Java Web Development at Software University (SoftUni)<br>🥇 Completed secondary education with excellent GPA<br>😄 Fun facts about me: I like downhill 🚵🏻 and fitness 🏋🏻‍♀️<br>
 
 ## 🌐 Socials:
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/momchil-tsanov-5b91a62aa/) 
 
 # 💻 Tech Stack:
