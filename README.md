@@ -3,7 +3,7 @@
 🎓 Studying Informatics at New Bulgarian University<br>📚 I am currently learning Java Web Development at Software University (SoftUni)<br>🥇 Completed secondary education with excellent GPA<br>😄 Fun facts about me: I like downhill 🚵🏻 and fitness 🏋🏻‍♀️<br>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/momchiltsanov) 
+[![Instagram]([https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FInstagram&psig=AOvVaw0nYAVR6dcEPvRhmgGtGm6o&ust=1730802714284000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjHvtm8wokDFQAAAAAdAAAAABAE))](https://instagram.com/momchiltsanov) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/momchil-tsanov-5b91a62aa/) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MomchilTsanov)
 
