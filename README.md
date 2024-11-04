@@ -7,15 +7,15 @@
 
 # 💻 Tech Stack:
 
-<img align="left" width="30" height="30" src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" alt="JAVA" style="padding-right:10px"/>
-<img align="left" width="30" height="30" src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" alt="IntelliJ IDEA" style="padding-right:10px;"/>
-<img align="left" width="30" height="30" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="C++" style="padding-right:10px;"/>
-<img align="left" width="30" height="30" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="Visual Studio Code" style="padding-right:10px;"/>
-<img align="left" width="30" height="30" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" alt="Other Tool" style="padding-right:10px;"/>
-<img align="left" width="30" height="30" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML5" style="padding-right:10px;"/>
-<img align="left" width="30" height="30" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS3" style="padding-right:10px;"/>
-<img align="left" width="30" height="30" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" style="padding-right:10px;"/>
-<img align="left" width="30" height="30" src="https://img.icons8.com/?size=100&id=16318&format=png&color=FFFFFF" alt="GitHub" style="padding-right:10px;"/>
+<img align="left" width="40" height="40" src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" alt="JAVA" style="padding-right:10px"/>
+<img align="left" width="40" height="40" src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" alt="IntelliJ IDEA" style="padding-right:10px;"/>
+<img align="left" width="40" height="40" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="C++" style="padding-right:10px;"/>
+<img align="left" width="40" height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="Visual Studio Code" style="padding-right:10px;"/>
+<img align="left" width="40" height="40" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" alt="Other Tool" style="padding-right:10px;"/>
+<img align="left" width="40" height="40" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML5" style="padding-right:10px;"/>
+<img align="left" width="40" height="40" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS3" style="padding-right:10px;"/>
+<img align="left" width="40" height="40" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" style="padding-right:10px;"/>
+<img align="left" width="40" height="40" src="https://img.icons8.com/?size=100&id=16318&format=png&color=FFFFFF" alt="GitHub" style="padding-right:10px;"/>
 <br clear="left"/>
 
 <br>
