@@ -5,7 +5,7 @@
 
 🎓 I'm majoring in Informatics at New Bulgarian University<br>🧠 Learning Java Web Development at Software University <br>🥇 Completed secondary education with excellent GPA<br>😄 Fun facts about me: I like downhill 🚵🏻 and fitness 🏋🏻‍♀️<br>
 
-# 💻 Technologies I Use:
+## 💻 Technologies I Use:
 
 <img align="left" width="40" height="40" src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" alt="JAVA" style="padding-right:10px"/>
 <img align="left" width="40" height="40" src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" alt="IntelliJ IDEA" style="padding-right:10px;"/>
