@@ -9,6 +9,7 @@
 
 <img align="left" width="40" height="40" src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" alt="JAVA" style="padding-right:10px"/>
 <img align="left" width="40" height="40" src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" alt="IntelliJ IDEA" style="padding-right:10px;"/>
+<img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/874086?s=280&v=4" alt="JUnit 5" style="padding-right:10px;"/>
 
 
 <img align="left" width="40" height="40" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="C++" style="padding-right:10px;"/>
