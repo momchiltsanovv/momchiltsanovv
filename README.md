@@ -9,7 +9,7 @@
 
 <img align="left" width="40" height="40" src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" alt="JAVA" style="padding-right:10px"/>
 <img align="left" width="40" height="40" src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" alt="IntelliJ IDEA" style="padding-right:10px;"/>
-<img align="left" width="40" height="40" src="[https://img.icons8.com/?size=100&id=61466&format=png&color=000000](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmemorynotfound.com%2Frun-junit-tests-method-order%2F&psig=AOvVaw2urIMzOouXEBv6yKtANsfQ&ust=1733430212837000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKi6pfP4jooDFQAAAAAdAAAAABAJ)" alt="IntelliJ IDEA" style="padding-right:10px;"/>
+
 
 <img align="left" width="40" height="40" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="C++" style="padding-right:10px;"/>
 <img align="left" width="40" height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="Visual Studio Code" style="padding-right:10px;"/>
