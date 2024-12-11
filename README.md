@@ -3,7 +3,7 @@
 
 ### <br>🚀 About Me:<br>
 
-🎓 I'm majoring in Informatics at New Bulgarian University<br>🧠 Learning Java Web Development at Software University <br>🥇 Completed secondary education with excellent GPA<br>😄 Fun facts about me: I like downhill 🚵🏻 and fitness 🏋🏻‍♀️<br>
+🎓 I'm majoring in Informatics at New Bulgarian University<br>🥇 Completed secondary education with excellent GPA<br>😄 Fun facts about me: I like downhill 🚵🏻 and fitness 🏋🏻‍♀️<br>
 
 ## 💻 Technologies I Use:
 
