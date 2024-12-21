@@ -6,7 +6,7 @@
 
 🧠 I'm majoring in **Informatics** at **New Bulgarian University**  
 💻 Currently exploring opportunities in backend development  
-🏆 Graduated from secondary education with an impressive GPA  
+🏆 Graduated secondary education with an impressive GPA  
 ⚡ Fun fact: I love downhill biking and staying active in fitness!
 
 ### 📫 How to Reach Me
