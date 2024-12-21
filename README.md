@@ -1,44 +1,47 @@
-# Welcome to my GitHub profile! I'm Momchil 👋🏻
+# Hi there, I'm Momchil 👋
+
+## I'm on my journey to becoming a Backend Developer!
+
+<img align="right" width=200px height=220px alt="side_sticker" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=ecf05e476mgc48gcj4uw78d6r0dk2agk8ruun71znq3kvcc3&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+
+🧠 I'm majoring in **Informatics** at **New Bulgarian University**  
+💻 Currently exploring opportunities in backend development  
+🏆 Graduated from secondary education with an impressive GPA  
+⚡ Fun fact: I love downhill biking and staying active in fitness!
+
+### 📫 How to Reach Me
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30px">](https://www.linkedin.com/in/momchil-tsanov-5b91a62aa)
+[<img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="email" width="30px">](mailto:momchilworkspace@gmail.com)
+[<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/facebook/facebook-plain.svg" alt="Facebook" width="30px">](https://www.facebook.com/profile.php?id=100009972669108&locale=bg_BG)
 
 
-### <br>🚀 About Me:<br>
+### <img align="left" alt="html tag image" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" style="margin-right: 5px;"> &nbsp; Tech Stack:
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-🎓 I'm majoring in Informatics at New Bulgarian University<br>🥇 Completed secondary education with excellent GPA<br>😄 Fun facts about me: I like downhill 🚵🏻 and fitness 🏋🏻‍♀️<br>
 
-## 💻 Technologies I Use:
+<img align="left" alt="JAVA" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  style="padding-right:10px"/>
+<img align="left" alt="C++" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"  style="padding-right:10px;"/>
+<img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JUnit 5" width="40" src="https://avatars.githubusercontent.com/u/874086?s=280&v=4"  style="padding-right:10px;"/>
+<img align="center" alt="Docker" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="padding-right:10px;" />
+<img align="left" alt="IntelliJ IDEA" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"  style="padding-right:10px;"/>
+<img align="left" alt="CLion" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg"  style="padding-right:10px;"/>
+<img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="40px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
-<img align="left" width="40" height="40" src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" alt="JAVA" style="padding-right:10px"/>
-<img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/874086?s=280&v=4" alt="JUnit 5" style="padding-right:10px;"/>
-<img align="left" width="40" height="40" src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" alt="IntelliJ IDEA" style="padding-right:10px;"/>
-<img align="left" width="40" height="40" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="C++" style="padding-right:10px;"/>
-<img align="left" width="40" height="40" src="https://static-00.iconduck.com/assets.00/clion-icon-512x512-tvyolucv.png" alt="CLion" style="padding-right:10px;"/>
-<img align="left" width="40" height="40" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" alt="Other Tool" style="padding-right:10px;"/>
-<img align="left" width="40" height="40" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML5" style="padding-right:10px;"/>
-<img align="left" width="40" height="40" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS3" style="padding-right:10px;"/>
-<img align="left" width="40" height="40" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" style="padding-right:10px;"/>
-<img align="left" width="40" height="40" src="https://img.icons8.com/?size=100&id=16318&format=png&color=FFFFFF" alt="GitHub" style="padding-right:10px;"/>
-<img align="left" width="40" height="40" src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" alt="Docker" style="padding-right:10px;"/>
 
 
 
 <br clear="left"/>
+</div>
 
-<br>
 
-## 📫 How to Reach Me:
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/momchil-tsanov-5b91a62aa/" target="blank"><img align="center"
-      src="https://img.icons8.com/?size=100&id=vWcULbkKy3DN&format=png&color=000000"
-      height="40" width="40" /></a>
-    <a href="https://www.facebook.com/profile.php?id=100009972669108&locale=bg_BG" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      height="33" width="40" /></a>
-    <a href="mailto:momchilworkspace@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"
-      height="40-" width="40" /></a>
-</p>
-<br>
-<br>
+
+
+### 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=momchiltsanovv&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
