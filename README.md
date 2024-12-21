@@ -36,14 +36,9 @@
 <img align="left" alt="CLion" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg"  style="padding-right:10px;"/>
 
 
-
-
 <br clear="left"/>
 </div>
 
 
-
-
-
 ### 📊 GitHub Stats
-  <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momchiltsanovv&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momchiltsanovv&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
