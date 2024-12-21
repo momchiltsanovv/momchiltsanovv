@@ -2,7 +2,8 @@
 
 ## I'm on my journey to becoming a Backend Developer!
 
-<img align="right" width=200px height=220px alt="side_sticker" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=ecf05e476mgc48gcj4uw78d6r0dk2agk8ruun71znq3kvcc3&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+<img align="right" width=220px height=220px alt="side_sticker" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFwc2JvNGN5ZmVubDNjdHlnbGh4YmZiNXJzbWE2bnIyYmZ0a2tyZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OKd639JWKn1KM/giphy.gif" />
+ 
 
 🧠 I'm majoring in **Informatics** at **New Bulgarian University**  
 💻 Currently exploring opportunities in backend development  
@@ -41,4 +42,5 @@
 
 
 ### 📊 GitHub Stats
-  <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momchiltsanovv&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+ <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momchiltsanovv&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  
