@@ -13,7 +13,7 @@
 ### 📫 How to Reach Me
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30px">](https://www.linkedin.com/in/momchil-tsanov-5b91a62aa)
 [<img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="email" width="30px">](mailto:momchilworkspace@gmail.com)
-[<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/facebook/facebook-plain.svg" alt="Facebook" width="30px">](https://www.facebook.com/profile.php?id=100009972669108&locale=bg_BG)
+[<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-white-icon.png" alt="linktree" width="28px">](https://linktr.ee/momchiltsanov)
 
 
 ### <img align="left" alt="html tag image" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" style="margin-right: 5px;"> &nbsp; Tech Stack:
