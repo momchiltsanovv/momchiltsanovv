@@ -2,8 +2,8 @@
 
 ## I'm on my journey to becoming a Backend Developer!
 
-<img align="right" width=220px height=220px alt="side_sticker" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFwc2JvNGN5ZmVubDNjdHlnbGh4YmZiNXJzbWE2bnIyYmZ0a2tyZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OKd639JWKn1KM/giphy.gif" />
- 
+
+<img align="right" width=220px height=220px alt="side_sticker" src="https://media.giphy.com/media/povenlBAIz14s/giphy.gif?cid=ecf05e47hfxwluw95aizjoupojx4cld4xuy01jka2dhe3if8&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
 
 🧠 I'm majoring in **Informatics** at **New Bulgarian University**  
 💻 Currently exploring opportunities in backend development  
