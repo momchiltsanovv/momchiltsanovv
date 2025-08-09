@@ -6,7 +6,7 @@ I am a third-year **Computer Science** student at **New Bulgarian University**, 
 ## 🚀 What I'm Up To
 - 🤖 Currently exploring opportunities in backend development  
 - 💻 Building Spring Boot applications with PostgreSQL
-- 🔨 Working on CRUD project UFC CHAMPS
+- 🔨 Working on CRUD project Enterprise Resource Planning (ERP) Mini-System
 
 
 
