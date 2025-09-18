@@ -37,7 +37,6 @@ I am a dedicated third-year **Computer Science** student at **New Bulgarian Univ
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="Spring Boot" width="45" height="45"/>
   <img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" alt="JUnit" width="45" height="45"/>
-  <img src="https://avatars.githubusercontent.com/u/45949248?s=200&v=4" alt="Lombok" width="45" height="45"/>
 </p>
 
 ### **Databases**
