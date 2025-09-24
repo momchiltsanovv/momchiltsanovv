@@ -5,7 +5,7 @@
 
 ## 🎯 About Me
 
-I am a dedicated third-year **Computer Science** student at **New Bulgarian University** with a strong passion for backend development and building scalable, robust applications. Currently focused on expanding my expertise in enterprise-level Java development and modern software architecture patterns.
+I am a **Computer Science** student at **New Bulgarian University** with a strong passion for backend development and building scalable, robust applications. Currently focused on expanding my expertise in enterprise-level Java development and modern software architecture patterns.
 
 ### 🔭 Current Focus
 -   **Backend Development**: Specializing in Spring Boot ecosystem and RESTful API design
