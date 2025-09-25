@@ -37,8 +37,8 @@ I am a **Computer Science** student at **New Bulgarian University** with a stron
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="Spring Boot" width="45" height="45"/>
   <img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" alt="JUnit" width="45" height="45"/>
-</p>
-
+  <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" width="45" height="45"/>
+  
 ### **Databases**
 <p align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="PostgreSQL" width="45" height="45"/>
