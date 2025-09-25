@@ -10,7 +10,7 @@ I am a **Computer Science** student at **New Bulgarian University** with a stron
 ### 🔭 Current Focus
 -   **Backend Development**: Specializing in Spring Boot ecosystem and RESTful API design
 -   **Database Management**: Working with PostgreSQL and MySQL for data persistence and optimization  
--   **Project Development**: Building NEXIO - a student-exclusive marketplace platform
+-   **Project Development**: Building NEXIO - a student exclusive marketplace platform
 -   **Professional Growth**: Actively seeking backend development opportunities
 
 ### 🏆 Academic Excellence
