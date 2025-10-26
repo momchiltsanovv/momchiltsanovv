@@ -38,11 +38,11 @@ I am a **Computer Science** student at **New Bulgarian University** with a stron
 ### **Programming Languages**
 <p align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="45" height="45"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C" width="45" height="45"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="45" height="45"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="45" height="45"/>
   <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" alt="SQL" width="45" height="45"/>
   <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML5" width="45" height="45"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C" width="45" height="45"/>
 </p>
 
 ### **Frameworks & Libraries**
