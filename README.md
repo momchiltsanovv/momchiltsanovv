@@ -27,7 +27,7 @@ I am a **Computer Science** student at **New Bulgarian University** with a stron
 ### 🛍️ NEXIO - Student Marketplace
 *A comprehensive platform designed exclusively for students to buy, sell, and exchange academic resources and personal items within university communities.*
 
-**Tech Stack:** `Spring Boot` • `PostgreSQL` • `RESTful APIs` • `Maven`
+**Tech Stack:** `Spring Boot` • `PostgreSQL` • `RESTful APIs` • `AWS S3` • `Maven`
 
 </div>
 
@@ -51,12 +51,20 @@ I am a **Computer Science** student at **New Bulgarian University** with a stron
   <img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" alt="JUnit" width="45" height="45"/>
   <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" width="45" height="45"/>
 </p>
-  
+
+### **Cloud Services**
+<p>
+    <img src="https://img.icons8.com/?size=100&id=106501&format=png&color=000000" alt="PostgreSQL" width="45" height="45"/>
+
+</p>
+
 ### **Databases**
 <p align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="PostgreSQL" width="45" height="45"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="MySQL" width="45" height="45"/>
 </p>
+
+
 
 ### **Development Tools**
 <p align="left">
