@@ -54,8 +54,8 @@ I am a **Computer Science** student at **New Bulgarian University** with a stron
 
 ### **Cloud Services**
 <p>
-    <img src="https://img.icons8.com/?size=100&id=106501&format=png&color=000000" alt="PostgreSQL" width="45" height="45"/>
-
+    <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="AWS" width="45" height="45"/>
+    <img src="https://img.icons8.com/?size=100&id=106501&format=png&color=000000" alt="S3" width="45" height="45"/>
 </p>
 
 ### **Databases**
