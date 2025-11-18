@@ -54,8 +54,7 @@ I am a **Computer Science** student at **New Bulgarian University** with a stron
 
 ### **Cloud Services**
 <p>
-    <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="AWS" width="45" height="45"/>
-    <img src="https://img.icons8.com/?size=100&id=106501&format=png&color=000000" alt="S3" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="45" height="45"/>
 </p>
 
 ### **Databases**
@@ -77,10 +76,16 @@ I am a **Computer Science** student at **New Bulgarian University** with a stron
 
 ### **Build Tools**
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="Maven" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="Gradle" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" alt="Maven" width="45" height="45"/>
+          
 </p>
 
+### **OS**
+<p align="left">
+  <img src="https://img.icons8.com/?size=100&id=vCiwbOh7Uo7G&format=png&color=000000" alt="MacOS" wi`dth="45" height="45"/>
+  <img src="https://github.com/user-attachments/assets/bd3993a5-fcaf-4a05-a4b3-84ba1ff8025c" alt="MacOS" wi`dth="45" height="45"/>   
+</p>
 ---
 
 ## 🤝 Professional Network
