@@ -86,11 +86,9 @@ I am a **Computer Science** student at **New Bulgarian University** with a stron
   <img src="https://img.icons8.com/?size=100&id=vCiwbOh7Uo7G&format=png&color=000000" alt="MacOS" wi`dth="45" height="45"/>
   <img src="https://github.com/user-attachments/assets/bd3993a5-fcaf-4a05-a4b3-84ba1ff8025c" alt="MacOS" wi`dth="45" height="45"/>   
 </p>
----
 
 ## 🤝 Professional Network
 
-<div align="center">
   <a href="https://www.linkedin.com/in/momchil-tsanov-5b91a62aa">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="50" height="50"/>
   </a>
@@ -98,5 +96,3 @@ I am a **Computer Science** student at **New Bulgarian University** with a stron
   <a href="mailto:momchilworkspace@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="50" height="50"/>
   </a>
-
-</div>
