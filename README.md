@@ -20,18 +20,7 @@ I am a **Computer Science** student at **New Bulgarian University** with a stron
 
 ---
 
-## 🚀 Featured Projects
 
-<div align="center">
-
-### 🛍️ NEXIO - Student Marketplace
-*A comprehensive platform designed exclusively for students to buy, sell, and exchange academic resources and personal items within university communities.*
-
-**Tech Stack:** `Spring Boot` • `PostgreSQL` • `RESTful APIs` • `AWS S3` • `Maven`
-
-</div>
-
----
 
 ## 🛠️ Technical Expertise
 
