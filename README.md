@@ -1,5 +1,5 @@
 <h1 align="center">Momchil Tsanov</h1>
-<h3 align="center">Computer Science Student | Backend Developer | Spring Boot Enthusiast</h3>
+<h3 align="center">Computer Science Student | Software Engineer | Spring Boot Enthusiast</h3>
 
 ---
 
